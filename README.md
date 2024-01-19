@@ -2,4 +2,4 @@
 
 2. The ML model was trained to assist in understanding how the substructures of PIMs affect FFV using the SHAP (SHapley Additive exPlanations) method. 
 
-3. The predicted fractional free volume (FFV) of PIMs in this work can be found in "PIM_Pred_FFV.pdf".
+3. The predicted FFV of PIMs in this work can be found in "PIM_Pred_FFV.pdf".
